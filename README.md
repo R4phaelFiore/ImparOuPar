@@ -8,3 +8,4 @@
 
 - Não tem dependencias.
 - OpenSource.
+- Console Version.
